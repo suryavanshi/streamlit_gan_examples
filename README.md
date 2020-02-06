@@ -1,4 +1,4 @@
-# Streamlit Generative Modles Examples
+# Streamlit Generative Models Examples
 Demo of GPT2 and Progressive GAN with Streamlit
 
 Run GPT2 Example using - streamlit run transformers_gpt2.py
